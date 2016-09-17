@@ -1,0 +1,34 @@
+body{font-family:  Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;}
+#wdyw img{width:360px;height: 210px}
+#wdsl img{width: 120px;height: 120px}
+#hzjg img{
+filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+-o-filter: grayscale(100%);}
+.footer{background-color: #4E5A80;width: 100%;height: 150px;}
+.footer img{width: 64px;height: 64px}
+.footer p{color:white;}
+#kcjj p{vertical-align: middle;}
+.bfjs{border:2px solid #ccc;margin:10px 0}
+.bfjs img{width: 117px;height: 151px;margin-right: 50px;}
+.bfjs ul li{list-style: none}
+.bfjs ul{margin-left: 50px;margin-top:20px;margin-bottom: 20px;margin-right: 50px}
+#cfjg img{margin:0 auto;}
+#kcxc img{width: 960px}
+.container{width: 960px;margin-top: 30px}
+#gwHeader{background: url(imgs/slide0044_image118.jpg);height: 220px}
+#gwzx h1{padding-top: 50px;padding-left:50px }
+#gwzx p{padding-top: 10px;padding-left:50px }
+#gwzx ul{margin-top: 30px;margin-bottom: 30px;list-style: none}
+#gwzx ul li{padding: 10px 0;}
+#gwzx ul span{padding-right:15px; color:red;}
+.womenBackground{background: url(imgs/slide0032_image128.png) no-repeat;height: 185px;}
+#tdPhoto ul li{float: right}
+hr.style3 {border-top: 1px dashed #8c8b8b;}
+hr{margin-top:10px;margin-bottom:20px;}
+#serviceIcon2 div{margin-right:100px;margin-top: 15px;color:white;padding-left:50px;}
+#serviceIcon1 div{margin-right:100px;padding-left:50px;}
+#serviceIcon3 div{margin-right:100px;padding-left:50px;}
+#kcImg img{width:220px;height:150px;}
